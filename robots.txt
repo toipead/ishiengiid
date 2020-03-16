@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooceewiub.lucavanstraaten.nl/sitemap.xml
